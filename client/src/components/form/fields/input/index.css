@@ -1,0 +1,9 @@
+.input {
+  border-radius: 4px;
+  background-color: #EFEFEF;
+  border: solid 1px gray;
+  width: 300px;
+  padding: 12px;
+  margin: 8px;
+  display: block;
+}

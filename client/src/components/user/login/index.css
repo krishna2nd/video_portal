@@ -1,0 +1,29 @@
+.login-user {
+  text-align: center;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+.login-user .input {
+  border-radius: 4px;
+  background-color: #EFEFEF;
+  border: solid 1px gray;
+  width: 300px;
+  padding: 12px;
+  margin: 15px 0px;
+  display: block;
+}
+
+.login-user .button {
+  border-radius: 4px;
+  background-color: #EFEFEF;
+  border: solid 1px gray;
+  width: 328px;
+  padding: 12px;
+  margin: 6px 0px;
+  display: block;
+}
+.login-user .input.err-input {
+  border: solid 1px red;
+}

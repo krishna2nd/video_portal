@@ -1,0 +1,29 @@
+.player h4 {
+  font-size: 1.6rem;
+  margin: 10px 0px;
+}
+
+@media only screen and (min-width: 250px) { 
+  .player {
+    padding: 2%;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: -1px -1px 4px 3px #DEDEDE;
+  }
+}
+
+@media only screen and (min-width: 450px) { 
+  .player {
+    padding: 2%;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: -1px -1px 4px 3px #DEDEDE;
+  }
+}
+
+@media only screen and (min-width: 720px) { 
+  .player {
+    width: 100%;
+    min-height: 650px;
+  }
+}

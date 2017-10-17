@@ -1,0 +1,5 @@
+.field-error {
+  border: solid 1px red;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10px;
+}
