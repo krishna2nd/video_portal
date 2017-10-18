@@ -13,7 +13,7 @@ class Thumbs extends Component {
     }
   }
   render() {
-    console.log(this.props)
+    // console.log(this.props)
     return (
       <div className="thumbnail row" onClick={this.playVideo} >
         <div className="col-12 t-left" >
@@ -27,6 +27,7 @@ class Thumbs extends Component {
         </div>
         <div className="col-12 t-left" >
         <StarRating
+          key={this.props._id}
           id={this.props._id}
           ratings={this.props.ratings}
           dispatch={this.props.dispatch}

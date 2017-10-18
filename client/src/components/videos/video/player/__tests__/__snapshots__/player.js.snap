@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/videos/video/player 1`] = `
+<div
+  className="player"
+  id="player"
+>
+  <h4>
+    [0] Getting Started With ReactJs
+  </h4>
+  <video
+    controls={true}
+    src="/videos/Getting_Started_With_React.js.mp4"
+    width="100%"
+  >
+    <source
+      src="/videos/Getting_Started_With_React.js.mp4"
+      type="video/mp4"
+    />
+    Your browser does not support HTML5 video.
+  </video>
+  <div
+    className="rating"
+    onClick={[Function]}
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    <span
+      className="mark 1"
+    >
+      ★
+    </span>
+    <span
+      className="mark 2"
+    >
+      ★
+    </span>
+    <span
+      className="mark 3"
+    >
+      ★
+    </span>
+    <span
+      className="mark 4"
+    >
+      ★
+    </span>
+    <span
+      className="none 5"
+    >
+      ★
+    </span>
+    <span
+      className="count"
+    >
+       (
+      8
+      )
+    </span>
+  </div>
+  <p>
+    React.js is a JavaScript library for building user interfaces. - Just the UI: Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, its easy to try it out on a small feature in an existing project. - Virtual DOM: React uses a virtual DOM diff implementation for ultra-high performance. It can also render on the server using Node.js — no heavy browser DOM required. - Data flow: React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
+  </p>
+</div>
+`;

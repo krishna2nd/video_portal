@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component snapshot check 1`] = `
+<div>
+  <form
+    className="login-user"
+    onSubmit={[Function]}
+  >
+    <input
+      className="input "
+      defaultValue="ali"
+      id="username"
+      name="username"
+      placeholder="User name"
+      type="text"
+    />
+    <input
+      className="input "
+      defaultValue="password"
+      id="password"
+      name="password"
+      placeholder="Password"
+      type="password"
+    />
+    <button
+      className="button"
+      name="login"
+    >
+      Login
+    </button>
+  </form>
+</div>
+`;

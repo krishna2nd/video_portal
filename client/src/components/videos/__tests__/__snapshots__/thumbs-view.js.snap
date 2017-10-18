@@ -1,0 +1,778 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/videos/video/ThumbsView 1`] = `
+<div
+  className="list"
+>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [1] Google Cardboard Assembly
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/Google_Cardboard_Assembly.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="mark 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          11
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        Google Cardboard Assembly Step by Step Instructions [HD]
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [2] How Does AngularJS Work Beginners Angular Tutor
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/How_Does_AngularJS_Work_Beginners_Angular_Tutorial.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          11
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        What you will learn in this course. How to use Angular.js to save time, create better projects and g
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [3] How does Node.js work
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/How_does_Node.js_work.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          10
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        New to Node.js? Check out this video that explains "How does Node work?"
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [4] iPhone 7 Trailer 2016
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/iPhone_7_Trailer_2016.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        iPhone 7 concept trailer 2016! with Bluetooth AirPods by Beats and ChargingPad, and much more!
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [5] What is the MEAN Stack
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/What_is_the_MEAN_Stack.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="mark 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        Do you know what the MEAN stack is? Watch our short intro video and get ready to kick your learning 
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [6] Getting Started With ReactJs
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/Getting_Started_With_React.js.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        React.js is a JavaScript library for building user interfaces. - Just the UI: Lots of people use Rea
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [7] Google Cardboard Assembly
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/Google_Cardboard_Assembly.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="mark 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        Google Cardboard Assembly Step by Step Instructions [HD]
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [8] How Does AngularJS Work Beginners Angular Tutor
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/How_Does_AngularJS_Work_Beginners_Angular_Tutorial.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="none 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        What you will learn in this course. How to use Angular.js to save time, create better projects and g
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [9] How does Node.js work
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/How_does_Node.js_work.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="none 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        New to Node.js? Check out this video that explains "How does Node work?"
+        ...
+      </p>
+    </div>
+  </div>
+  <div
+    className="thumbnail row"
+    onClick={[Function]}
+  >
+    <div
+      className="col-12 t-left"
+    >
+      <h4>
+        [10] iPhone 7 Trailer 2016
+      </h4>
+    </div>
+    <div
+      className="col-12"
+    >
+      <video
+        controls={true}
+        width="100%"
+      >
+        <source
+          src="/videos/iPhone_7_Trailer_2016.mp4"
+          type="video/mp4"
+        />
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <div
+        className="rating"
+        onClick={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+      >
+        <span
+          className="mark 1"
+        >
+          ★
+        </span>
+        <span
+          className="mark 2"
+        >
+          ★
+        </span>
+        <span
+          className="mark 3"
+        >
+          ★
+        </span>
+        <span
+          className="mark 4"
+        >
+          ★
+        </span>
+        <span
+          className="none 5"
+        >
+          ★
+        </span>
+        <span
+          className="count"
+        >
+           (
+          8
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      className="col-12 t-left"
+    >
+      <p>
+        iPhone 7 concept trailer 2016! with Bluetooth AirPods by Beats and ChargingPad, and much more!
+        ...
+      </p>
+    </div>
+  </div>
+</div>
+`;

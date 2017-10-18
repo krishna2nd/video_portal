@@ -33,6 +33,7 @@ class Player extends Component {
           Your browser does not support HTML5 video.
         </video>
         <StarRating
+          key={state._id}
           ratings={state.ratings}
           dispatch={state.dispatch}
           id={state._id}

@@ -96,7 +96,7 @@
   .thumbnail { 
     width: 250px;
     min-width: 220px;
-    margin: 20px 10px;
+    margin: 10px;
     padding: 10px;
     min-height: 270px;
     -webkit-box-shadow: 4px 4px 5px -2px #CDCDCD;

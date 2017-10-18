@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Footer 1`] = `
+<footer>
+  <h6>
+    Copy right 2017 Crossover technologies
+  </h6>
+</footer>
+`;

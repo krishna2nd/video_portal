@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/videos/video/item 1`] = `
+<div
+  className="thumbnail row"
+  onClick={[Function]}
+>
+  <div
+    className="col-12 t-left"
+  >
+    <h4>
+      [0] Getting Started With ReactJs
+    </h4>
+  </div>
+  <div
+    className="col-12"
+  >
+    <video
+      controls={true}
+      width="100%"
+    >
+      <source
+        src="/videos/Getting_Started_With_React.js.mp4"
+        type="video/mp4"
+      />
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+  <div
+    className="col-12 t-left"
+  >
+    <div
+      className="rating"
+      onClick={[Function]}
+      onMouseOut={[Function]}
+      onMouseOver={[Function]}
+    >
+      <span
+        className="mark 1"
+      >
+        ★
+      </span>
+      <span
+        className="mark 2"
+      >
+        ★
+      </span>
+      <span
+        className="mark 3"
+      >
+        ★
+      </span>
+      <span
+        className="mark 4"
+      >
+        ★
+      </span>
+      <span
+        className="none 5"
+      >
+        ★
+      </span>
+      <span
+        className="count"
+      >
+         (
+        8
+        )
+      </span>
+    </div>
+  </div>
+  <div
+    className="col-12 t-left"
+  >
+    <p>
+      React.js is a JavaScript library for building user interfaces. - Just the UI: Lots of people use Rea
+      ...
+    </p>
+  </div>
+</div>
+`;

@@ -9,7 +9,7 @@ class PlayerView extends Component {
 
     const id = this.props.playing._id;
     
-    console.log('player view', this.props.playing, this.props.videos);
+    // console.log('player view', this.props.playing, this.props.videos);
     if (videos && videos.has(this.props.playing._id)) {
       videos.delete(id);
     }
@@ -21,7 +21,7 @@ class PlayerView extends Component {
             dispatch={this.props.dispatch}
             />
         </div>
-        <div className="col-3">
+        <div className="col-3 lists">
           <div>
           {
             videos ? (<List

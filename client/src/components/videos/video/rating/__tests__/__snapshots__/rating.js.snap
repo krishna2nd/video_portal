@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/videos/video/rating 1`] = `
+<div
+  className="rating"
+  onClick={[Function]}
+  onMouseOut={[Function]}
+  onMouseOver={[Function]}
+>
+  <span
+    className="mark 1"
+  >
+    ★
+  </span>
+  <span
+    className="mark 2"
+  >
+    ★
+  </span>
+  <span
+    className="mark 3"
+  >
+    ★
+  </span>
+  <span
+    className="mark 4"
+  >
+    ★
+  </span>
+  <span
+    className="none 5"
+  >
+    ★
+  </span>
+  <span
+    className="count"
+  >
+     (
+    8
+    )
+  </span>
+</div>
+`;

@@ -1,5 +1,5 @@
 
-import PlayerView from './PayerView';
+import PlayerView from './PlayerView';
 import ThumbsView from './ThumbsView';
 import './index.css'
 

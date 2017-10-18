@@ -6,12 +6,11 @@ class List extends Component {
     const items = this.props.items;
     const videos = [];
     items.forEach((ele, index) => (videos.push(<Item
-      key={index}
+      key={`${index}-${ele._id}`}
       {...ele}
       playVideo={this.props.playVideo}
       dispatch={this.props.dispatch}
     />)))
-    console.log('Items', items);
     return (
       <div>
         {videos}

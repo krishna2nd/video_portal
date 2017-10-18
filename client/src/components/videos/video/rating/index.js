@@ -71,14 +71,14 @@ class StarRating extends Component {
   }
 
   render() {
-    
+    const key = this.props.id;
 
     const Star = (type) => [
-      (<span className={`${type} 1`} >★</span>),
-      (<span className={`${type} 2`} >★</span>),
-      (<span className={`${type} 3`} >★</span>),
-      (<span className={`${type} 4`} >★</span>),
-      (<span className={`${type} 5`} >★</span>)
+      (<span key={`${key}-1`} className={`${type} 1`} >★</span>),
+      (<span key={`${key}-2`} className={`${type} 2`} >★</span>),
+      (<span key={`${key}-3`} className={`${type} 3`} >★</span>),
+      (<span key={`${key}-4`} className={`${type} 4`} >★</span>),
+      (<span key={`${key}-5`} className={`${type} 5`} >★</span>)
     ];
 
     return (

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/AppContent 1`] = `
+<div
+  className="error"
+>
+  <span>
+    Some errorr...
+  </span>
+</div>
+`;
