@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <header className='header'>
         <h1>
-          Crossover video portal
+          Video portal
         </h1>
       </header>
     );
